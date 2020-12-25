@@ -7,6 +7,7 @@ namespace DesignPatternsExample
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			/////123
 		}
 	}
 }
