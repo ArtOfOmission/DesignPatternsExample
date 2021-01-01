@@ -7,7 +7,7 @@ namespace FactoryMenthod.Operation
 	/// <summary>
 	/// 减法运算类
 	/// </summary>
-	public class OpeartionSub : OperationSuper
+	public class OperationSub : OperationSuper
 	{
 		public override int GetResult(int a, int b)
 		{
