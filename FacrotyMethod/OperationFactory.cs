@@ -1,10 +1,10 @@
-﻿using FacrotyMethod;
-using FactoryMenthod.Operation;
+﻿using SimpleFacroty;
+using SimpleFacroty.Operation;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryMenthod
+namespace SimpleFacroty
 {
 	/// <summary>
 	/// 工厂类

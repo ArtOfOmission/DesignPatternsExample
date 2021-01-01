@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryMenthod.Operation
+namespace SimpleFacroty.Operation
 {
 	/// <summary>
 	/// 乘法运算类

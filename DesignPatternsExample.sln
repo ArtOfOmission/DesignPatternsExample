@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "行为型模式", "行为�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{D53554B3-B9C8-4227-9E78-C460AB3F4E15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacrotyMethod", "FacrotyMethod\FacrotyMethod.csproj", "{5A5F9F3F-7D86-4CCC-ABB2-ABCEF4731C31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFacroty", "FacrotyMethod\SimpleFacroty.csproj", "{5A5F9F3F-7D86-4CCC-ABB2-ABCEF4731C31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

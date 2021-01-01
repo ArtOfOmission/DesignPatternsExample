@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryMenthod.Operation
+namespace SimpleFacroty.Operation
 {
 	/// <summary>
 	/// 加法运算类

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FacrotyMethod
+namespace SimpleFacroty
 {
 	/// <summary>
 	/// 运算符

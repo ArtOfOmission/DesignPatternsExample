@@ -1,7 +1,7 @@
-﻿using FactoryMenthod;
+﻿using SimpleFacroty;
 using System;
 
-namespace FacrotyMethod
+namespace SimpleFacroty
 {
 	class Program
 	{
