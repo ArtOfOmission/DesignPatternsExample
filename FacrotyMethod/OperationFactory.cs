@@ -14,6 +14,7 @@ namespace SimpleFacroty
 		public OperationFactory()
 		{
 
+
 		}
 
 		public OperationSuper CreateOperation(OperatorEnum operatorEnum) {
